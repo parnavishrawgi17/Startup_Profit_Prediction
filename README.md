@@ -1,1 +1,3 @@
 # Startup_Profit_Prediction
+This project focuses on building a predictive model to forecast the profitability of new and existing startups. By leveraging historical data, the aim is to identify key factors influencing a startup's financial success and provide actionable insights for investors, founders, and stakeholders.
+This project demonstrates the application of machine learning in financial forecasting and strategic decision-making. The insights gained can help mitigate risks, optimize resource allocation, and foster growth for startups, ultimately contributing to a more informed investment landscape.
